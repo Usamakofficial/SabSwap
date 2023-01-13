@@ -52,7 +52,11 @@ jobs:
         id: pinata
         uses: anantaramdas/ipfs-pinata-deploy-action@39bbda1ce1fe24c69c6f57861b8038278d53688d
         with:
+<<<<<<< HEAD
           pin-name:Sabswap${{ needs.tag.outputs.new_tag }}
+=======
+          pin-name: Uniswap ${{ needs.tag.outputs.new_tag }}
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
           path: './build'
           pinata-api-key: ${{ secrets.PINATA_API_KEY }}
           pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET_KEY }}
@@ -109,10 +113,17 @@ jobs:
 
             The latest release is always accessible via our alias to the Cloudflare IPFS gateway at [app.uniswap.org](https://app.uniswap.org).
 
+<<<<<<< HEAD
             You can also access theSabswapInterface directly from an IPFS gateway.
             **BEWARE**: TheSabswapinterface uses [`localStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) to remember your settings, such as which tokens you have imported.
             **You should always use an IPFS gateway that enforces origin separation**, or our alias to the latest release at [app.uniswap.org](https://app.uniswap.org).
             YourSabswapsettings are never remembered across different URLs.
+=======
+            You can also access the Uniswap Interface directly from an IPFS gateway.
+            **BEWARE**: The Uniswap interface uses [`localStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) to remember your settings, such as which tokens you have imported.
+            **You should always use an IPFS gateway that enforces origin separation**, or our alias to the latest release at [app.uniswap.org](https://app.uniswap.org).
+            Your Uniswap settings are never remembered across different URLs.
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
             IPFS gateways:
             - https://${{ steps.convert-cidv0.outputs.cidv1 }}.ipfs.dweb.link/

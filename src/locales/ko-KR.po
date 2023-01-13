@@ -60,8 +60,13 @@ msgid "24H volume"
 msgstr "24시간 볼륨"
 
 #: src/components/Tokens/TokenDetails/StatsSection.tsx
+<<<<<<< HEAD
 msgid "24H volume is the amount of the asset that has been traded onSabswapv3 during the past 24 hours."
 msgstr "24H 거래량은 지난 24시간 동안Sabswapv3에서 거래된 자산의 양입니다."
+=======
+msgid "24H volume is the amount of the asset that has been traded on Uniswap v3 during the past 24 hours."
+msgstr "24H 거래량은 지난 24시간 동안 Uniswap v3에서 거래된 자산의 양입니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/RemoveLiquidity/V3.tsx
 msgid "25%"
@@ -157,7 +162,11 @@ msgid "Add"
 msgstr "추가"
 
 #: src/components/AccountDetails/TransactionSummary.tsx
+<<<<<<< HEAD
 msgid "Add <0/> and <1/> toSabswapV2"
+=======
+msgid "Add <0/> and <1/> to Uniswap V2"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Uniswap V2에 <0/> 및 <1/> 추가"
 
 #: src/components/vote/DelegateModal.tsx
@@ -226,7 +235,11 @@ msgid "Allow high price impact trades and skip the confirm screen. Use at your o
 msgstr "높은 가격 영향 거래를 허용하고 확인 화면을 건너 뜁니다. 자신의 책임하에 사용하십시오."
 
 #: src/pages/Swap/index.tsx
+<<<<<<< HEAD
 msgid "Allow theSabswapProtocol to use your {0}"
+=======
+msgid "Allow the Uniswap Protocol to use your {0}"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Uniswap 프로토콜이 귀하의 {0}을(를) 사용하도록 허용"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
@@ -247,8 +260,13 @@ msgid "An error occurred loading tokens. Please try again."
 msgstr "토큰을 로드하는 중에 오류가 발생했습니다. 다시 시도해 주세요."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
+<<<<<<< HEAD
 msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note: fee on transfer and rebase tokens are incompatible withSabswapV3."
 msgstr "교환을 실행하는 중에 오류가 발생했습니다. 가격변동 허용치를 높여야 할 수도 있습니다. 그래도 작동하지 않으면 교환중인 토큰이 Uniswap과 호환되지 않는 것일 수 있습니다. 참고: 전송 수수료 및 리베이스 토큰은SabswapV3와 호환되지 않습니다."
+=======
+msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr "교환을 실행하는 중에 오류가 발생했습니다. 가격변동 허용치를 높여야 할 수도 있습니다. 그래도 작동하지 않으면 교환중인 토큰이 Uniswap과 호환되지 않는 것일 수 있습니다. 참고: 전송 수수료 및 리베이스 토큰은 Uniswap V3와 호환되지 않습니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/AccountDetailsV2/TransactionBody.tsx
 #: src/components/earn/StakingModal.tsx
@@ -295,7 +313,11 @@ msgid "Are you sure?"
 msgstr "확실합니까?"
 
 #: src/components/claim/ClaimModal.tsx
+<<<<<<< HEAD
 msgid "As a member of theSabswapcommunity you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
+=======
+msgid "As a member of the Uniswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Uniswap 커뮤니티의 회원으로서 UNI가 투표 및 거버넌스에 사용되도록 청구할 수 있습니다. <0/> <1/> <2> UN에 대해 자세히 알아보기</2>"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
@@ -352,12 +374,21 @@ msgid "By adding liquidity you'll earn 0.3% of all trades on this pair proportio
 msgstr "유동성을 추가하면 풀 쉐어에 비례하여이 쌍에 대한 모든 거래의 0.3%를 벌 수 있습니다. 수수료는 풀에 추가되고 실시간으로 발생하며 유동성을 인출하여 청구할 수 있습니다."
 
 #: src/components/WalletModal/index.tsx
+<<<<<<< HEAD
 msgid "By connecting a wallet, you agree toSabswapLabs’ <0>Terms of Service</0> and acknowledge that you have read and understand theSabswap<1>Protocol Disclaimer</1>."
 msgstr "지갑을 연결하면SabswapLabs의 <0>서비스 약관</0>을 읽고 이해하여 <1>프로토콜 면책 조항</1>을 인정하는 것입니다."
 
 #: src/components/WalletModal/index.tsx
 msgid "By connecting a wallet, you agree toSabswapLabs’ <0>Terms of Service</0> and consent to its <1>Privacy Policy</1>."
 msgstr "지갑을 연결하면SabswapLabs의 <0>서비스 약관</0> 및 <1>개인 정보 보호 정책</1>에 동의하는 것입니다."
+=======
+msgid "By connecting a wallet, you agree to Uniswap Labs’ <0>Terms of Service</0> and acknowledge that you have read and understand the Uniswap <1>Protocol Disclaimer</1>."
+msgstr "지갑을 연결하면 Uniswap Labs의 <0>서비스 약관</0>을 읽고 이해하여 <1>프로토콜 면책 조항</1>을 인정하는 것입니다."
+
+#: src/components/WalletModal/index.tsx
+msgid "By connecting a wallet, you agree to Uniswap Labs’ <0>Terms of Service</0> and consent to its <1>Privacy Policy</1>."
+msgstr "지갑을 연결하면 Uniswap Labs의 <0>서비스 약관</0> 및 <1>개인 정보 보호 정책</1>에 동의하는 것입니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/Vote/styled.tsx
 msgid "Canceled"
@@ -695,8 +726,13 @@ msgid "Deposit tokens to the {label} network."
 msgstr "{label} 네트워크에 토큰을 예치합니다."
 
 #: src/pages/Earn/index.tsx
+<<<<<<< HEAD
 msgid "Deposit your Liquidity Provider tokens to receive UNI, theSabswapprotocol governance token."
 msgstr "유동성 제공자 토큰을 예치하여Sabswap프로토콜 거버넌스 토큰인 UNI를 받으십시오."
+=======
+msgid "Deposit your Liquidity Provider tokens to receive UNI, the Uniswap protocol governance token."
+msgstr "유동성 제공자 토큰을 예치하여 Uniswap 프로토콜 거버넌스 토큰인 UNI를 받으십시오."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/earn/UnstakingModal.tsx
 msgid "Deposited liquidity:"
@@ -748,8 +784,13 @@ msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "v2 포지션 중 하나가 보이지 않습니까? <0>가져 오십시오.</0>"
 
 #: src/components/vote/DelegateModal.tsx
+<<<<<<< HEAD
 msgid "Earned UNI tokens represent voting shares inSabswapgovernance."
 msgstr "획득한 UNI 토큰은Sabswap거버넌스의 의결권을 나타냅니다."
+=======
+msgid "Earned UNI tokens represent voting shares in Uniswap governance."
+msgstr "획득한 UNI 토큰은 Uniswap 거버넌스의 의결권을 나타냅니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/FeeSelector/index.tsx
 msgid "Edit"
@@ -866,11 +907,19 @@ msgid "Explore Top Tokens on Uniswap"
 msgstr "Uniswap의 인기 토큰 살펴보기"
 
 #: src/pages/Pool/CTACards.tsx
+<<<<<<< HEAD
 msgid "ExploreSabswapAnalytics."
 msgstr "Uniswap 분석 정보를 살펴보세요."
 
 #: src/components/Popups/FailedNetworkSwitchPopup.tsx
 msgid "Failed to switch networks from theSabswapInterface. In order to useSabswapon {0}, you must change the network in your wallet."
+=======
+msgid "Explore Uniswap Analytics."
+msgstr "Uniswap 분석 정보를 살펴보세요."
+
+#: src/components/Popups/FailedNetworkSwitchPopup.tsx
+msgid "Failed to switch networks from the Uniswap Interface. In order to use Uniswap on {0}, you must change the network in your wallet."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Uniswap 인터페이스에서 네트워크를 전환하지 못했습니다. Uniswap을 {0} 에서 사용하려면 지갑에서 네트워크를 변경해야 합니다."
 
 #: src/components/NavBar/MenuDropdown.tsx
@@ -898,8 +947,13 @@ msgid "For"
 msgstr "찬성"
 
 #: src/pages/MigrateV2/index.tsx
+<<<<<<< HEAD
 msgid "For each pool shown below, click migrate to remove your liquidity fromSabswapV2 and deposit it intoSabswapV3."
 msgstr "아래 표시된 각 풀에 대해 마이그레이션을 클릭하여SabswapV2에서 유동성을 제거하고SabswapV3에 입금하십시오."
+=======
+msgid "For each pool shown below, click migrate to remove your liquidity from Uniswap V2 and deposit it into Uniswap V3."
+msgstr "아래 표시된 각 풀에 대해 마이그레이션을 클릭하여 Uniswap V2에서 유동성을 제거하고 Uniswap V3에 입금하십시오."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/Swap/index.tsx
 msgid "From"
@@ -1160,8 +1214,13 @@ msgid "Migrate V2 Liquidity"
 msgstr "V2 유동성 마이그레이션"
 
 #: src/pages/MigrateV2/index.tsx
+<<<<<<< HEAD
 msgid "Migrate your liquidity tokens fromSabswapV2 toSabswapV3."
 msgstr "유동성 토큰을SabswapV2에서SabswapV3로 마이그레이션하십시오."
+=======
+msgid "Migrate your liquidity tokens from Uniswap V2 to Uniswap V3."
+msgstr "유동성 토큰을 Uniswap V2에서 Uniswap V3로 마이그레이션하십시오."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/AccountDetails/TransactionSummary.tsx
 msgid "Migrate {0}/{1} liquidity to V3"
@@ -1488,7 +1547,11 @@ msgid "Read more about UNI"
 msgstr "UNI에 대해 자세히 알아보기"
 
 #: src/pages/Vote/Landing.tsx
+<<<<<<< HEAD
 msgid "Read more aboutSabswapgovernance"
+=======
+msgid "Read more about Uniswap governance"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Uniswap 거버넌스에 대해 자세히 알아보기"
 
 #: src/pages/Pool/v2.tsx
@@ -1761,7 +1824,11 @@ msgid "TVL"
 msgstr "TVL"
 
 #: src/components/Popups/SurveyPopup.tsx
+<<<<<<< HEAD
 msgid "Take a 10 minute survey to help us improve your experience in theSabswapapp."
+=======
+msgid "Take a 10 minute survey to help us improve your experience in the Uniswap app."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Uniswap 앱 경험을 개선하는 데 도움이 되는 10분 설문조사에 참여하세요."
 
 #: src/components/Popups/SurveyPopup.tsx
@@ -1769,7 +1836,11 @@ msgid "Tell us what you think ↗"
 msgstr "↗ 생각을 알려주세요."
 
 #: src/components/Popups/ClaimPopup.tsx
+<<<<<<< HEAD
 msgid "Thanks for being part of theSabswapcommunity <0/>"
+=======
+msgid "Thanks for being part of the Uniswap community <0/>"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Uniswap 커뮤니티에 참여해 주셔서 감사합니다. <0/>"
 
 #: src/components/FeeSelector/index.tsx
@@ -1777,7 +1848,11 @@ msgid "The % you will earn in fees."
 msgstr "수수료로받을 수있는 %입니다."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
+<<<<<<< HEAD
 msgid "TheSabswapinvariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
+=======
+msgid "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Uniswap 불변 x * y = k가 스왑에 의해 충족되지 않았습니다. 이는 일반적으로 스와핑하는 토큰 중 하나가 이체시 사용자 지정 동작을 통합함을 의미합니다."
 
 #: src/components/swap/AdvancedSwapDetails.tsx
@@ -1793,8 +1868,13 @@ msgid "The app fetches on-chain data and constructs contract calls with an Infur
 msgstr "앱은 온체인 데이터를 가져오고 Infura API를 사용하여 계약 호출을 구성합니다."
 
 #: src/components/PrivacyPolicy/index.tsx
+<<<<<<< HEAD
 msgid "The app fetches the optimal trade route from aSabswapLabs server."
 msgstr "앱은SabswapLabs 서버에서 최적의 무역 경로를 가져옵니다."
+=======
+msgid "The app fetches the optimal trade route from a Uniswap Labs server."
+msgstr "앱은 Uniswap Labs 서버에서 최적의 무역 경로를 가져옵니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/PrivacyPolicy/index.tsx
 msgid "The app logs anonymized usage statistics in order to improve over time."
@@ -1850,8 +1930,13 @@ msgid "The output token cannot be transferred. There may be an issue with the ou
 msgstr "산출 토큰을 이체할 수 없습니다. 산출 토큰에 문제가 있을 수 있습니다."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
+<<<<<<< HEAD
 msgid "The output token cannot be transferred. There may be an issue with the output token. Note: fee on transfer and rebase tokens are incompatible withSabswapV3."
 msgstr "산출 토큰을 이체할 수 없습니다. 산출 토큰에 문제가 있을 수 있습니다. 참고: 이체 수수료 및 리베이스 토큰이SabswapV3와 호환되지 않습니다."
+=======
+msgid "The output token cannot be transferred. There may be an issue with the output token. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr "산출 토큰을 이체할 수 없습니다. 산출 토큰에 문제가 있을 수 있습니다. 참고: 이체 수수료 및 리베이스 토큰이 Uniswap V3와 호환되지 않습니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/Badge/RangeBadge.tsx
 msgid "The price of this pool is outside of your selected range. Your position is not currently earning fees."
@@ -1874,8 +1959,13 @@ msgid "There is no liquidity data."
 msgstr "유동성 데이터가 없습니다."
 
 #: src/components/ConnectedAccountBlocked/index.tsx
+<<<<<<< HEAD
 msgid "This address is blocked on theSabswapLabs interface because it is associated with one or more"
 msgstr "이 주소는 하나 이상의 주소와 연결되어 있기 때문에SabswapLabs 인터페이스에서 차단됩니다."
+=======
+msgid "This address is blocked on the Uniswap Labs interface because it is associated with one or more"
+msgstr "이 주소는 하나 이상의 주소와 연결되어 있기 때문에 Uniswap Labs 인터페이스에서 차단됩니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/PrivacyPolicy/index.tsx
 msgid "This app uses the following third-party APIs:"
@@ -1898,20 +1988,34 @@ msgid "This token doesn't appear on the active token list(s). Make sure this is 
 msgstr "이 토큰은 활성 토큰 목록에 표시되지 않습니다. 이것이 거래하려는 토큰인지 확인하십시오."
 
 #: src/components/Tokens/TokenDetails/PriceChart.tsx
+<<<<<<< HEAD
 msgid "This token doesn't have chart data because it hasn't been traded onSabswapv3"
 msgstr "이 토큰은Sabswapv3에서 거래되지 않았기 때문에 차트 데이터가 없습니다."
 
 #: src/components/SearchModal/BlockedToken.tsx
 msgid "This token is not supported in theSabswapLabs app"
 msgstr "이 토큰은SabswapLabs 앱에서 지원되지 않습니다."
+=======
+msgid "This token doesn't have chart data because it hasn't been traded on Uniswap v3"
+msgstr "이 토큰은 Uniswap v3에서 거래되지 않았기 때문에 차트 데이터가 없습니다."
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "This token is not supported in the Uniswap Labs app"
+msgstr "이 토큰은 Uniswap Labs 앱에서 지원되지 않습니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "This tool will safely migrate your {0} liquidity to V3. The process is completely trustless thanks to the"
 msgstr "이 도구로 {0} 유동성을 V3로 안전하게 마이그레이션할 수 있습니다. 이 과정은 다음 덕분에 신뢰할 수 있습니다."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
+<<<<<<< HEAD
 msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible withSabswapV3."
 msgstr "이 거래는 가격 변동으로 인해 성공하지 못합니다. 슬리피지 허용치를 높이십시오. 참고: 이체 수수료 및 리베이스 토큰은SabswapV3와 호환되지 않습니다."
+=======
+msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr "이 거래는 가격 변동으로 인해 성공하지 못합니다. 슬리피지 허용치를 높이십시오. 참고: 이체 수수료 및 리베이스 토큰은 Uniswap V3와 호환되지 않습니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
 msgid "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
@@ -1961,8 +2065,13 @@ msgid "Total deposits"
 msgstr "총 입금"
 
 #: src/components/Tokens/TokenTable/TokenRow.tsx
+<<<<<<< HEAD
 msgid "Total value locked (TVL) is the amount of the asset that’s currently in aSabswapv3 liquidity pool."
 msgstr "잠긴 총 가치(TVL)는 현재Sabswapv3 유동성 풀에 있는 자산의 양입니다."
+=======
+msgid "Total value locked (TVL) is the amount of the asset that’s currently in a Uniswap v3 liquidity pool."
+msgstr "잠긴 총 가치(TVL)는 현재 Uniswap v3 유동성 풀에 있는 자산의 양입니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/swap/RouterLabel.tsx
 msgid "Trade Route"
@@ -2021,8 +2130,13 @@ msgid "UNI has arrived"
 msgstr "UNI가 도착했습니다"
 
 #: src/pages/Vote/Landing.tsx
+<<<<<<< HEAD
 msgid "UNI tokens represent voting shares inSabswapgovernance. You can vote on each proposal yourself or delegate your votes to a third party."
 msgstr "UNI 토큰은Sabswap거버넌스의 의결권을 나타냅니다. 각 제안에 대해 직접 투표하거나 제3자에게 투표를 위임할 수 있습니다."
+=======
+msgid "UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
+msgstr "UNI 토큰은 Uniswap 거버넌스의 의결권을 나타냅니다. 각 제안에 대해 직접 투표하거나 제3자에게 투표를 위임할 수 있습니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/RemoveLiquidity/index.tsx
 msgid "UNI {0}/{1} Burned"
@@ -2086,8 +2200,13 @@ msgid "Unknown Source"
 msgstr "알 수 없는 출처"
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
+<<<<<<< HEAD
 msgid "Unknown error{0}. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible withSabswapV3."
 msgstr "알 수 없는 오류 {0}. 슬리피지 허용치를 높이십시오. 참고: 이체 수수료 및 리베이스 토큰은SabswapV3와 호환되지 않습니다."
+=======
+msgid "Unknown error{0}. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr "알 수 없는 오류 {0}. 슬리피지 허용치를 높이십시오. 참고: 이체 수수료 및 리베이스 토큰은 Uniswap V3와 호환되지 않습니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/Vote/Landing.tsx
 #: src/pages/Vote/VotePage.tsx
@@ -2138,7 +2257,11 @@ msgid "Update Delegation"
 msgstr "위임 업데이트"
 
 #: src/components/Settings/index.tsx
+<<<<<<< HEAD
 msgid "Use theSabswapLabs API to get faster quotes."
+=======
+msgid "Use the Uniswap Labs API to get faster quotes."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Uniswap Labs API를 사용하여 더 빠른 견적을 받으세요."
 
 #: src/components/claim/ClaimModal.tsx
@@ -2190,8 +2313,13 @@ msgid "View transaction on Explorer"
 msgstr "Explorer에서 거래 보기"
 
 #: src/components/Tokens/TokenTable/TokenRow.tsx
+<<<<<<< HEAD
 msgid "Volume is the amount of the asset that has been traded onSabswapv3 during the selected time frame."
 msgstr "거래량은 선택한 기간 동안Sabswapv3에서 거래된 자산의 양입니다."
+=======
+msgid "Volume is the amount of the asset that has been traded on Uniswap v3 during the selected time frame."
+msgstr "거래량은 선택한 기간 동안 Uniswap v3에서 거래된 자산의 양입니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/Vote/VotePage.tsx
 msgid "Vote Against"
@@ -2339,8 +2467,13 @@ msgid "You are creating a pool"
 msgstr "풀을 만들고 있습니다."
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
+<<<<<<< HEAD
 msgid "You are the first liquidity provider for thisSabswapV3 pool. Your liquidity will migrate at the current {0} price."
 msgstr "귀하는 이SabswapV3 풀의 최초 유동성 제공자입니다. 유동성은 현재 {0} 가격으로 마이그레이션됩니다."
+=======
+msgid "You are the first liquidity provider for this Uniswap V3 pool. Your liquidity will migrate at the current {0} price."
+msgstr "귀하는 이 Uniswap V3 풀의 최초 유동성 제공자입니다. 유동성은 현재 {0} 가격으로 마이그레이션됩니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/AddLiquidityV2/index.tsx
 msgid "You are the first liquidity provider."
@@ -2375,16 +2508,26 @@ msgid "You must connect an account."
 msgstr "계정을 연결해야합니다."
 
 #: src/pages/Swap/index.tsx
+<<<<<<< HEAD
 msgid "You must give theSabswapsmart contracts permission to use your {0}. You only have to do this once per token."
 msgstr "{0}을 사용하려면Sabswap스마트 계약에 권한을 부여해야합니다. 토큰 당 한 번만 이 작업을 수행하면 됩니다."
+=======
+msgid "You must give the Uniswap smart contracts permission to use your {0}. You only have to do this once per token."
+msgstr "{0}을 사용하려면 Uniswap 스마트 계약에 권한을 부여해야합니다. 토큰 당 한 번만 이 작업을 수행하면 됩니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/CreateProposal/index.tsx
 msgid "You must have {formattedProposalThreshold} votes to submit a proposal"
 msgstr "제안서를 제출 {formattedProposalThreshold} 표가 있어야합니다."
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
+<<<<<<< HEAD
 msgid "You should only deposit liquidity intoSabswapV3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
 msgstr "유동성을SabswapV3에 정확하다고 생각하는 가격으로 예치해야합니다. <0/> 가격이 잘못된 것 같으면 교환하여 가격을 이동하거나 다른 사람이 이동하기를 기다릴 수 있습니다."
+=======
+msgid "You should only deposit liquidity into Uniswap V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
+msgstr "유동성을 Uniswap V3에 정확하다고 생각하는 가격으로 예치해야합니다. <0/> 가격이 잘못된 것 같으면 교환하여 가격을 이동하거나 다른 사람이 이동하기를 기다릴 수 있습니다."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/RemoveLiquidity/V3.tsx
 msgid "You will also collect fees earned from this position."
@@ -2574,7 +2717,11 @@ msgid "{0, plural, =1 {This token isn't traded on leading U.S. centralized excha
 msgstr "{0, plural, =1 {이 토큰은 미국의 주요 중앙 집중식 거래소에서 거래되지 않습니다.} other {이 토큰은 미국의 주요 중앙 집중식 거래소에서 거래되지 않습니다.}}"
 
 #: src/constants/tokenSafety.tsx
+<<<<<<< HEAD
 msgid "{0, plural, =1 {You can't trade this token using theSabswapApp.} other {You can't trade these tokens using theSabswapApp.}}"
+=======
+msgid "{0, plural, =1 {You can't trade this token using the Uniswap App.} other {You can't trade these tokens using the Uniswap App.}}"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "{0, plural, =1 {Uniswap 앱을 사용하여 이 토큰을 거래할 수 없습니다.} other {Uniswap 앱을 사용하여 이러한 토큰을 거래할 수 없습니다.}}"
 
 #: src/components/RateToggle/index.tsx

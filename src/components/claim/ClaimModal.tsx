@@ -151,7 +151,11 @@ export default function ClaimModal() {
           <AutoColumn gap="md" style={{ padding: '1rem', paddingTop: '0' }} justify="center">
             <ThemedText.DeprecatedSubHeader fontWeight={500}>
               <Trans>
+<<<<<<< HEAD
                 As a member of theSabswapcommunity you may claim UNI to be used for voting and governance.
+=======
+                As a member of the Uniswap community you may claim UNI to be used for voting and governance.
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
                 <br />
                 <br />
                 <ExternalLink href="https://uniswap.org/blog/uni">Read more about UNI</ExternalLink>

@@ -319,7 +319,11 @@ export default function WalletModal({
         <AutoRow style={{ flexWrap: 'nowrap', padding: '4px 16px' }}>
           <ThemedText.BodySecondary fontSize={16} lineHeight={'24px'}>
             <Trans>
+<<<<<<< HEAD
               By connecting a wallet, you agree toSabswapLabs’{' '}
+=======
+              By connecting a wallet, you agree to Uniswap Labs’{' '}
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
               <ExternalLink href="https://uniswap.org/terms-of-service/">Terms of Service</ExternalLink> and consent to
               its <ExternalLink href="https://uniswap.org/privacy-policy">Privacy Policy</ExternalLink>.
             </Trans>
@@ -330,7 +334,11 @@ export default function WalletModal({
           <AutoRow style={{ flexWrap: 'nowrap' }}>
             <ThemedText.DeprecatedBody fontSize={12}>
               <Trans>
+<<<<<<< HEAD
                 By connecting a wallet, you agree toSabswapLabs’{' '}
+=======
+                By connecting a wallet, you agree to Uniswap Labs’{' '}
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
                 <ExternalLink style={{ textDecoration: 'underline' }} href="https://uniswap.org/terms-of-service/">
                   Terms of Service
                 </ExternalLink>{' '}

@@ -386,7 +386,11 @@ describe('list reducer', () => {
 
       it('each of those initialized lists is empty', () => {
         const byUrl = store.getState().byUrl
+<<<<<<< HEAD
         // note we don't expect theSabswapdefault list to be prepopulated
+=======
+        // note we don't expect the uniswap default list to be prepopulated
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
         // this is ok.
         Object.keys(byUrl).forEach((url) => {
           if (url !== 'https://unpkg.com/@uniswap/default-token-list@latest/uniswap-default.tokenlist.json') {

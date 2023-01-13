@@ -121,14 +121,23 @@ export default function MigrateV2() {
               <Trans>Migrate V2 Liquidity</Trans>
             </ThemedText.DeprecatedMediumHeader>
             <div>
+<<<<<<< HEAD
               <QuestionHelper text={<Trans>Migrate your liquidity tokens from SabswapV2 to SabswapV3.</Trans>} />
+=======
+              <QuestionHelper text={<Trans>Migrate your liquidity tokens from Uniswap V2 to Uniswap V3.</Trans>} />
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
             </div>
           </AutoRow>
 
           <ThemedText.DeprecatedBody style={{ marginBottom: 8, fontWeight: 400 }}>
             <Trans>
+<<<<<<< HEAD
               For each pool shown below, click migrate to remove your liquidity from SabswapV2 and deposit it into
               SabswapV3.
+=======
+              For each pool shown below, click migrate to remove your liquidity from Uniswap V2 and deposit it into
+              Uniswap V3.
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
             </Trans>
           </ThemedText.DeprecatedBody>
 

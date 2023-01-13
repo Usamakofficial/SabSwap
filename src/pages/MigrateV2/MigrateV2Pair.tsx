@@ -442,7 +442,11 @@ function V2PairMigration({
                 textAlign="center"
               >
                 <Trans>
+<<<<<<< HEAD
                   You are the first liquidity provider for thisSabswapV3 pool. Your liquidity will migrate at the
+=======
+                  You are the first liquidity provider for this Uniswap V3 pool. Your liquidity will migrate at the
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
                   current {isNotUniswap ? 'SushiSwap' : 'V2'} price.
                 </Trans>
               </ThemedText.DeprecatedBody>
@@ -511,7 +515,11 @@ function V2PairMigration({
               </AutoColumn>
               <ThemedText.DeprecatedBody fontSize={14} style={{ marginTop: 8, fontWeight: 400 }}>
                 <Trans>
+<<<<<<< HEAD
                   You should only deposit liquidity intoSabswapV3 at a price you believe is correct. <br />
+=======
+                  You should only deposit liquidity into Uniswap V3 at a price you believe is correct. <br />
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
                   If the price seems incorrect, you can either make a swap to move the price or wait for someone else to
                   do so.
                 </Trans>

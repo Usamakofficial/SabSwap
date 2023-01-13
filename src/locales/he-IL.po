@@ -60,7 +60,11 @@ msgid "24H volume"
 msgstr "נפח 24 שעות"
 
 #: src/components/Tokens/TokenDetails/StatsSection.tsx
+<<<<<<< HEAD
 msgid "24H volume is the amount of the asset that has been traded onSabswapv3 during the past 24 hours."
+=======
+msgid "24H volume is the amount of the asset that has been traded on Uniswap v3 during the past 24 hours."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "נפח 24 שעות הוא סכום הנכס שנסחר ב-Uniswap v3 במהלך 24 השעות האחרונות."
 
 #: src/pages/RemoveLiquidity/V3.tsx
@@ -157,8 +161,13 @@ msgid "Add"
 msgstr "הוספה"
 
 #: src/components/AccountDetails/TransactionSummary.tsx
+<<<<<<< HEAD
 msgid "Add <0/> and <1/> toSabswapV2"
 msgstr "הוסף את <0/> ו- <1/> ל-SabswapV2"
+=======
+msgid "Add <0/> and <1/> to Uniswap V2"
+msgstr "הוסף את <0/> ו- <1/> ל- Uniswap V2"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/vote/DelegateModal.tsx
 msgid "Add Delegate +"
@@ -226,8 +235,13 @@ msgid "Allow high price impact trades and skip the confirm screen. Use at your o
 msgstr "אפשר עסקאות עם השפעות מחיר גבוהות ודלג על מסך האישור. השימוש על אחריותך בלבד."
 
 #: src/pages/Swap/index.tsx
+<<<<<<< HEAD
 msgid "Allow theSabswapProtocol to use your {0}"
 msgstr "אפשר לפרוטוקולSabswapלהשתמש ב- {0}"
+=======
+msgid "Allow the Uniswap Protocol to use your {0}"
+msgstr "אפשר לפרוטוקול Uniswap להשתמש ב- {0}"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "Allowed"
@@ -247,8 +261,13 @@ msgid "An error occurred loading tokens. Please try again."
 msgstr "אירעה שגיאה בטעינת אסימונים. בבקשה נסה שוב."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
+<<<<<<< HEAD
 msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note: fee on transfer and rebase tokens are incompatible withSabswapV3."
 msgstr "אירעה שגיאה בניסיון לבצע החלפה זו. יתכן שתצטרך להגביר את סובלנות ההחלקה שלך. אם זה לא עובד, ייתכן שיש אי התאמה לאסימון שאתה סוחר בו. הערה: עמלה על אסימון העברה וריבוס אינם תואמים ל-SabswapV3."
+=======
+msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr "אירעה שגיאה בניסיון לבצע החלפה זו. יתכן שתצטרך להגביר את סובלנות ההחלקה שלך. אם זה לא עובד, ייתכן שיש אי התאמה לאסימון שאתה סוחר בו. הערה: עמלה על אסימון העברה וריבוס אינם תואמים ל- Uniswap V3."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/AccountDetailsV2/TransactionBody.tsx
 #: src/components/earn/StakingModal.tsx
@@ -295,8 +314,13 @@ msgid "Are you sure?"
 msgstr "האם אתה בטוח?"
 
 #: src/components/claim/ClaimModal.tsx
+<<<<<<< HEAD
 msgid "As a member of theSabswapcommunity you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
 msgstr "כחבר בקהילתSabswapאתה יכול לטעון ש- UNI משמשת להצבעה ולממשל. <0/> <1/> <2> קרא עוד על UNI</2>"
+=======
+msgid "As a member of the Uniswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
+msgstr "כחבר בקהילת Uniswap אתה יכול לטעון ש- UNI משמשת להצבעה ולממשל. <0/> <1/> <2> קרא עוד על UNI</2>"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
@@ -352,12 +376,21 @@ msgid "By adding liquidity you'll earn 0.3% of all trades on this pair proportio
 msgstr "על ידי הוספת נזילות תרוויח 0.3% מכלל העסקאות בזוג זה ביחס לחלק שלך במאגר. העמלות מתווספות לבריכה, נצברות בזמן אמת וניתן לתבוע אותן באמצעות משיכת הנזילות שלך."
 
 #: src/components/WalletModal/index.tsx
+<<<<<<< HEAD
 msgid "By connecting a wallet, you agree toSabswapLabs’ <0>Terms of Service</0> and acknowledge that you have read and understand theSabswap<1>Protocol Disclaimer</1>."
 msgstr "על ידי חיבור ארנק, אתה מסכים לתנאי השירות</0> <0>ומאשר שקראת והבנת את כתב ויתור פרוטוקול <1></1>."
 
 #: src/components/WalletModal/index.tsx
 msgid "By connecting a wallet, you agree toSabswapLabs’ <0>Terms of Service</0> and consent to its <1>Privacy Policy</1>."
 msgstr "על ידי חיבור ארנק, אתה מסכים לתנאי השירות</0> שלSabswapLabs <0>ומסכים למדיניות הפרטיות <1>שלה</1>."
+=======
+msgid "By connecting a wallet, you agree to Uniswap Labs’ <0>Terms of Service</0> and acknowledge that you have read and understand the Uniswap <1>Protocol Disclaimer</1>."
+msgstr "על ידי חיבור ארנק, אתה מסכים לתנאי השירות</0> <0>ומאשר שקראת והבנת את כתב ויתור פרוטוקול <1></1>."
+
+#: src/components/WalletModal/index.tsx
+msgid "By connecting a wallet, you agree to Uniswap Labs’ <0>Terms of Service</0> and consent to its <1>Privacy Policy</1>."
+msgstr "על ידי חיבור ארנק, אתה מסכים לתנאי השירות</0> של Uniswap Labs <0>ומסכים למדיניות הפרטיות <1>שלה</1>."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/Vote/styled.tsx
 msgid "Canceled"
@@ -695,7 +728,11 @@ msgid "Deposit tokens to the {label} network."
 msgstr "הפקד אסימונים לרשת {label}"
 
 #: src/pages/Earn/index.tsx
+<<<<<<< HEAD
 msgid "Deposit your Liquidity Provider tokens to receive UNI, theSabswapprotocol governance token."
+=======
+msgid "Deposit your Liquidity Provider tokens to receive UNI, the Uniswap protocol governance token."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "הפקד את אסימוני ספק הנזילות שלך לקבלת UNI, אסימון הממשל לפרוטוקול Uniswap."
 
 #: src/components/earn/UnstakingModal.tsx
@@ -748,7 +785,11 @@ msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "אינך רואה את אחת מעמדות ה- v2 שלך? <0> יבא אותו.</0>"
 
 #: src/components/vote/DelegateModal.tsx
+<<<<<<< HEAD
 msgid "Earned UNI tokens represent voting shares inSabswapgovernance."
+=======
+msgid "Earned UNI tokens represent voting shares in Uniswap governance."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "אסימונים של UNI שהושכרו מייצגים מניות הצבעה בממשל Uniswap."
 
 #: src/components/FeeSelector/index.tsx
@@ -866,12 +907,21 @@ msgid "Explore Top Tokens on Uniswap"
 msgstr "חקור את האסימונים המובילים ב-Uniswap"
 
 #: src/pages/Pool/CTACards.tsx
+<<<<<<< HEAD
 msgid "ExploreSabswapAnalytics."
 msgstr "חקור אתSabswapAnalytics."
 
 #: src/components/Popups/FailedNetworkSwitchPopup.tsx
 msgid "Failed to switch networks from theSabswapInterface. In order to useSabswapon {0}, you must change the network in your wallet."
 msgstr "החלפת רשתות מממשקSabswapנכשלה. כדי להשתמש ב-Uniswap ב {0}, עליך לשנות את הרשת בארנק שלך."
+=======
+msgid "Explore Uniswap Analytics."
+msgstr "חקור את Uniswap Analytics."
+
+#: src/components/Popups/FailedNetworkSwitchPopup.tsx
+msgid "Failed to switch networks from the Uniswap Interface. In order to use Uniswap on {0}, you must change the network in your wallet."
+msgstr "החלפת רשתות מממשק Uniswap נכשלה. כדי להשתמש ב-Uniswap ב {0}, עליך לשנות את הרשת בארנק שלך."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/NavBar/MenuDropdown.tsx
 msgid "Feature Flags"
@@ -898,8 +948,13 @@ msgid "For"
 msgstr "ל"
 
 #: src/pages/MigrateV2/index.tsx
+<<<<<<< HEAD
 msgid "For each pool shown below, click migrate to remove your liquidity fromSabswapV2 and deposit it intoSabswapV3."
 msgstr "עבור כל מאגר המוצג למטה, לחץ על העבר כדי להסיר את הנזילות שלך מ-SabswapV2 והפקד אותו ל-SabswapV3."
+=======
+msgid "For each pool shown below, click migrate to remove your liquidity from Uniswap V2 and deposit it into Uniswap V3."
+msgstr "עבור כל מאגר המוצג למטה, לחץ על העבר כדי להסיר את הנזילות שלך מ- Uniswap V2 והפקד אותו ל- Uniswap V3."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/Swap/index.tsx
 msgid "From"
@@ -1160,8 +1215,13 @@ msgid "Migrate V2 Liquidity"
 msgstr "העבר נזילות V2"
 
 #: src/pages/MigrateV2/index.tsx
+<<<<<<< HEAD
 msgid "Migrate your liquidity tokens fromSabswapV2 toSabswapV3."
 msgstr "העבר את אסימוני הנזילות שלך מ-SabswapV2 ל-SabswapV3."
+=======
+msgid "Migrate your liquidity tokens from Uniswap V2 to Uniswap V3."
+msgstr "העבר את אסימוני הנזילות שלך מ- Uniswap V2 ל- Uniswap V3."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/AccountDetails/TransactionSummary.tsx
 msgid "Migrate {0}/{1} liquidity to V3"
@@ -1488,7 +1548,11 @@ msgid "Read more about UNI"
 msgstr "קרא עוד על UNI"
 
 #: src/pages/Vote/Landing.tsx
+<<<<<<< HEAD
 msgid "Read more aboutSabswapgovernance"
+=======
+msgid "Read more about Uniswap governance"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "קרא עוד על ממשל Uniswap"
 
 #: src/pages/Pool/v2.tsx
@@ -1761,7 +1825,11 @@ msgid "TVL"
 msgstr "TVL"
 
 #: src/components/Popups/SurveyPopup.tsx
+<<<<<<< HEAD
 msgid "Take a 10 minute survey to help us improve your experience in theSabswapapp."
+=======
+msgid "Take a 10 minute survey to help us improve your experience in the Uniswap app."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "השתתף בסקר של 10 דקות כדי לעזור לנו לשפר את החוויה שלך באפליקציית Uniswap."
 
 #: src/components/Popups/SurveyPopup.tsx
@@ -1769,16 +1837,26 @@ msgid "Tell us what you think ↗"
 msgstr "ספר לנו מה אתה חושב ↗"
 
 #: src/components/Popups/ClaimPopup.tsx
+<<<<<<< HEAD
 msgid "Thanks for being part of theSabswapcommunity <0/>"
 msgstr "תודה שהיית חלק מקהילתSabswap<0 />"
+=======
+msgid "Thanks for being part of the Uniswap community <0/>"
+msgstr "תודה שהיית חלק מקהילת Uniswap <0 />"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/FeeSelector/index.tsx
 msgid "The % you will earn in fees."
 msgstr "האחוזים שתרוויחו בעמלות."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
+<<<<<<< HEAD
 msgid "TheSabswapinvariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
 msgstr "המשתנה שלSabswapx * y = k לא הסתפק בהחלפה. זה בדרך כלל אומר שאחד מהאסימונים שאתה מחליף משלב התנהגות מותאמת אישית בהעברה."
+=======
+msgid "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
+msgstr "המשתנה של Uniswap x * y = k לא הסתפק בהחלפה. זה בדרך כלל אומר שאחד מהאסימונים שאתה מחליף משלב התנהגות מותאמת אישית בהעברה."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/swap/AdvancedSwapDetails.tsx
 msgid "The amount you expect to receive at the current market price. You may receive less or more if the market price changes while your transaction is pending."
@@ -1793,8 +1871,13 @@ msgid "The app fetches on-chain data and constructs contract calls with an Infur
 msgstr "האפליקציה שואבת נתונים על השרשרת ובונה שיחות חוזה עם Infura API."
 
 #: src/components/PrivacyPolicy/index.tsx
+<<<<<<< HEAD
 msgid "The app fetches the optimal trade route from aSabswapLabs server."
 msgstr "האפליקציה שואבת את נתיב הסחר האופטימלי משרתSabswapLabs."
+=======
+msgid "The app fetches the optimal trade route from a Uniswap Labs server."
+msgstr "האפליקציה שואבת את נתיב הסחר האופטימלי משרת Uniswap Labs."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/PrivacyPolicy/index.tsx
 msgid "The app logs anonymized usage statistics in order to improve over time."
@@ -1850,8 +1933,13 @@ msgid "The output token cannot be transferred. There may be an issue with the ou
 msgstr "לא ניתן להעביר את אסימון הפלט. ייתכן שיש בעיה באסימון הפלט."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
+<<<<<<< HEAD
 msgid "The output token cannot be transferred. There may be an issue with the output token. Note: fee on transfer and rebase tokens are incompatible withSabswapV3."
 msgstr "לא ניתן להעביר את אסימון הפלט. ייתכן שיש בעיה באסימון הפלט. הערה: עמלה על אסימון העברה וריבוס אינם תואמים ל-SabswapV3."
+=======
+msgid "The output token cannot be transferred. There may be an issue with the output token. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr "לא ניתן להעביר את אסימון הפלט. ייתכן שיש בעיה באסימון הפלט. הערה: עמלה על אסימון העברה וריבוס אינם תואמים ל- Uniswap V3."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/Badge/RangeBadge.tsx
 msgid "The price of this pool is outside of your selected range. Your position is not currently earning fees."
@@ -1874,8 +1962,13 @@ msgid "There is no liquidity data."
 msgstr "אין נתוני נזילות."
 
 #: src/components/ConnectedAccountBlocked/index.tsx
+<<<<<<< HEAD
 msgid "This address is blocked on theSabswapLabs interface because it is associated with one or more"
 msgstr "כתובת זו חסומה בממשקSabswapLabs מכיוון שהיא משויכת לאחד או יותר"
+=======
+msgid "This address is blocked on the Uniswap Labs interface because it is associated with one or more"
+msgstr "כתובת זו חסומה בממשק Uniswap Labs מכיוון שהיא משויכת לאחד או יותר"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/PrivacyPolicy/index.tsx
 msgid "This app uses the following third-party APIs:"
@@ -1898,20 +1991,34 @@ msgid "This token doesn't appear on the active token list(s). Make sure this is 
 msgstr "אסימון זה אינו מופיע ברשימות האסימונים הפעילות. ודא שזה האסימון שאתה רוצה לסחור בו."
 
 #: src/components/Tokens/TokenDetails/PriceChart.tsx
+<<<<<<< HEAD
 msgid "This token doesn't have chart data because it hasn't been traded onSabswapv3"
 msgstr "לטוקן זה אין נתוני תרשים מכיוון שהוא לא נסחר ב-Uniswap v3"
 
 #: src/components/SearchModal/BlockedToken.tsx
 msgid "This token is not supported in theSabswapLabs app"
 msgstr "אסימון זה אינו נתמך באפליקצייתSabswapLabs"
+=======
+msgid "This token doesn't have chart data because it hasn't been traded on Uniswap v3"
+msgstr "לטוקן זה אין נתוני תרשים מכיוון שהוא לא נסחר ב-Uniswap v3"
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "This token is not supported in the Uniswap Labs app"
+msgstr "אסימון זה אינו נתמך באפליקציית Uniswap Labs"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "This tool will safely migrate your {0} liquidity to V3. The process is completely trustless thanks to the"
 msgstr "כלי זה יעביר בבטחה את נזילות {0} שלך ל- V3. התהליך חסר אמון לחלוטין בזכות"
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
+<<<<<<< HEAD
 msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible withSabswapV3."
 msgstr "עסקה זו לא תצליח בגלל תנועת מחירים. נסה להגביר את סובלנות ההחלקה שלך. הערה: עמלה על אסימון העברה ומיקום מחדש אינם תואמים ל-SabswapV3."
+=======
+msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr "עסקה זו לא תצליח בגלל תנועת מחירים. נסה להגביר את סובלנות ההחלקה שלך. הערה: עמלה על אסימון העברה ומיקום מחדש אינם תואמים ל- Uniswap V3."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
 msgid "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
@@ -1961,8 +2068,13 @@ msgid "Total deposits"
 msgstr "סך ההפקדות"
 
 #: src/components/Tokens/TokenTable/TokenRow.tsx
+<<<<<<< HEAD
 msgid "Total value locked (TVL) is the amount of the asset that’s currently in aSabswapv3 liquidity pool."
 msgstr "ערך כולל נעול (TVL) הוא סכום הנכס שנמצא כעת במאגר נזילות שלSabswapv3."
+=======
+msgid "Total value locked (TVL) is the amount of the asset that’s currently in a Uniswap v3 liquidity pool."
+msgstr "ערך כולל נעול (TVL) הוא סכום הנכס שנמצא כעת במאגר נזילות של Uniswap v3."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/swap/RouterLabel.tsx
 msgid "Trade Route"
@@ -2021,7 +2133,11 @@ msgid "UNI has arrived"
 msgstr "UNI הגיע"
 
 #: src/pages/Vote/Landing.tsx
+<<<<<<< HEAD
 msgid "UNI tokens represent voting shares inSabswapgovernance. You can vote on each proposal yourself or delegate your votes to a third party."
+=======
+msgid "UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "אסימונים של UNI מייצגים מניות הצבעה בממשל Uniswap. אתה יכול להצביע על כל הצעה בעצמך או להאציל את קולותיך לצד שלישי."
 
 #: src/pages/RemoveLiquidity/index.tsx
@@ -2063,7 +2179,11 @@ msgstr "ממשל לא מוחלף"
 
 #: src/components/PrivacyPolicy/index.tsx
 msgid "Uniswap Labs' Terms of Service"
+<<<<<<< HEAD
 msgstr "התנאים וההגבלות שלSabswapLabs"
+=======
+msgstr "התנאים וההגבלות של Uniswap Labs"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/SwitchLocaleLink/index.tsx
 msgid "Uniswap available in: <0>{0}</0>"
@@ -2086,8 +2206,13 @@ msgid "Unknown Source"
 msgstr "מקור לא ידוע"
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
+<<<<<<< HEAD
 msgid "Unknown error{0}. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible withSabswapV3."
 msgstr "שגיאה לא ידועה{0}. נסה להגביר את סובלנות ההחלקה שלך. הערה: עמלה על אסימון העברה ומיקום מחדש אינם תואמים ל-SabswapV3."
+=======
+msgid "Unknown error{0}. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr "שגיאה לא ידועה{0}. נסה להגביר את סובלנות ההחלקה שלך. הערה: עמלה על אסימון העברה ומיקום מחדש אינם תואמים ל- Uniswap V3."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/Vote/Landing.tsx
 #: src/pages/Vote/VotePage.tsx
@@ -2138,8 +2263,13 @@ msgid "Update Delegation"
 msgstr "עדכן משלחת"
 
 #: src/components/Settings/index.tsx
+<<<<<<< HEAD
 msgid "Use theSabswapLabs API to get faster quotes."
 msgstr "השתמש בממשק ה-API שלSabswapLabs כדי לקבל הצעות מחיר מהירות יותר."
+=======
+msgid "Use the Uniswap Labs API to get faster quotes."
+msgstr "השתמש בממשק ה-API של Uniswap Labs כדי לקבל הצעות מחיר מהירות יותר."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/claim/ClaimModal.tsx
 msgid "User"
@@ -2190,7 +2320,11 @@ msgid "View transaction on Explorer"
 msgstr "צפה בעסקה ב- Explorer"
 
 #: src/components/Tokens/TokenTable/TokenRow.tsx
+<<<<<<< HEAD
 msgid "Volume is the amount of the asset that has been traded onSabswapv3 during the selected time frame."
+=======
+msgid "Volume is the amount of the asset that has been traded on Uniswap v3 during the selected time frame."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "נפח הוא סכום הנכס שנסחר ב-Uniswap v3 במהלך מסגרת הזמן שנבחרה."
 
 #: src/pages/Vote/VotePage.tsx
@@ -2339,8 +2473,13 @@ msgid "You are creating a pool"
 msgstr "אתה יוצר בריכה"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
+<<<<<<< HEAD
 msgid "You are the first liquidity provider for thisSabswapV3 pool. Your liquidity will migrate at the current {0} price."
 msgstr "אתה ספק הנזילות הראשון לבריכתSabswapV3 זו. הנזילות שלך תעבור במחיר {0} הנוכחי."
+=======
+msgid "You are the first liquidity provider for this Uniswap V3 pool. Your liquidity will migrate at the current {0} price."
+msgstr "אתה ספק הנזילות הראשון לבריכת Uniswap V3 זו. הנזילות שלך תעבור במחיר {0} הנוכחי."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/AddLiquidityV2/index.tsx
 msgid "You are the first liquidity provider."
@@ -2375,16 +2514,26 @@ msgid "You must connect an account."
 msgstr "עליך לחבר חשבון."
 
 #: src/pages/Swap/index.tsx
+<<<<<<< HEAD
 msgid "You must give theSabswapsmart contracts permission to use your {0}. You only have to do this once per token."
 msgstr "עליך לתת לחוזים החכמים שלSabswapלהשתמש ב- {0}שלך. אתה צריך לעשות זאת רק פעם אחת לכל אסימון."
+=======
+msgid "You must give the Uniswap smart contracts permission to use your {0}. You only have to do this once per token."
+msgstr "עליך לתת לחוזים החכמים של Uniswap להשתמש ב- {0}שלך. אתה צריך לעשות זאת רק פעם אחת לכל אסימון."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/CreateProposal/index.tsx
 msgid "You must have {formattedProposalThreshold} votes to submit a proposal"
 msgstr "עליך {formattedProposalThreshold} קולות כדי להגיש הצעה"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
+<<<<<<< HEAD
 msgid "You should only deposit liquidity intoSabswapV3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
 msgstr "עליכם להפקיד נזילות רק ב-SabswapV3 במחיר שלדעתכם נכון. <0/> אם נראה שהמחיר שגוי, באפשרותך להחליף כדי להזיז את המחיר או לחכות שמישהו אחר יעשה זאת."
+=======
+msgid "You should only deposit liquidity into Uniswap V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
+msgstr "עליכם להפקיד נזילות רק ב- Uniswap V3 במחיר שלדעתכם נכון. <0/> אם נראה שהמחיר שגוי, באפשרותך להחליף כדי להזיז את המחיר או לחכות שמישהו אחר יעשה זאת."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/RemoveLiquidity/V3.tsx
 msgid "You will also collect fees earned from this position."
@@ -2574,7 +2723,11 @@ msgid "{0, plural, =1 {This token isn't traded on leading U.S. centralized excha
 msgstr "{0, plural, =1 {אסימון זה אינו נסחר בבורסות מובילות בארה\"ב.} other {האסימונים הללו אינם נסחרים בבורסות מובילות בארה\"ב.}}"
 
 #: src/constants/tokenSafety.tsx
+<<<<<<< HEAD
 msgid "{0, plural, =1 {You can't trade this token using theSabswapApp.} other {You can't trade these tokens using theSabswapApp.}}"
+=======
+msgid "{0, plural, =1 {You can't trade this token using the Uniswap App.} other {You can't trade these tokens using the Uniswap App.}}"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "{0, plural, =1 {אינך יכול לסחור באסימון זה באמצעות אפליקציית Uniswap.} other {אתה לא יכול לסחור באסימונים האלה באמצעות אפליקציית Uniswap.}}"
 
 #: src/components/RateToggle/index.tsx

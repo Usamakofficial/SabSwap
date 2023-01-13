@@ -238,7 +238,11 @@ export function PriceChart({ width, height, prices, timePeriod }: PriceChartProp
           height={graphHeight}
           message={
             prices?.length === 0 ? (
+<<<<<<< HEAD
               <Trans>This token doesn&apos;t have chart data because it hasn&apos;t been traded onSabswapv3</Trans>
+=======
+              <Trans>This token doesn&apos;t have chart data because it hasn&apos;t been traded on Uniswap v3</Trans>
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
             ) : (
               <Trans>Missing chart data</Trans>
             )

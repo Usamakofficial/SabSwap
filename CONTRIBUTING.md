@@ -1,6 +1,10 @@
 # Contributing
 
+<<<<<<< HEAD
 Thank you for your interest in contributing to theSabswapinterface! 🦄
+=======
+Thank you for your interest in contributing to the Uniswap interface! 🦄
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 # Development
 

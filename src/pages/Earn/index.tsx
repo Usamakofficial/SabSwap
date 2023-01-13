@@ -80,7 +80,11 @@ export default function Earn() {
               <RowBetween>
                 <ThemedText.DeprecatedWhite fontSize={14}>
                   <Trans>
+<<<<<<< HEAD
                     Deposit your Liquidity Provider tokens to receive UNI, theSabswapprotocol governance token.
+=======
+                    Deposit your Liquidity Provider tokens to receive UNI, the Uniswap protocol governance token.
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
                   </Trans>
                 </ThemedText.DeprecatedWhite>
               </RowBetween>{' '}

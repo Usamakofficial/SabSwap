@@ -5,7 +5,11 @@ const DUMMY_KEY = '00000000000000000000000000000000'
 const PROXY_URL = process.env.REACT_APP_AMPLITUDE_PROXY_URL
 
 /**
+<<<<<<< HEAD
  * Initializes Amplitude SDK and configures it to send events to aSabswapreverse proxy,
+=======
+ * Initializes Amplitude SDK and configures it to send events to a Uniswap reverse proxy,
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
  * which relays to events to relevant Amplitude endpoints. You must be a
  * member of the organization on Amplitude to view logged events.
  */

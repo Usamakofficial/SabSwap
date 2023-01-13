@@ -24,7 +24,11 @@ export default function FailedNetworkSwitchPopup({ chainId }: { chainId: Support
       <AutoColumn gap="8px">
         <ThemedText.DeprecatedBody fontWeight={500}>
           <Trans>
+<<<<<<< HEAD
             Failed to switch networks from theSabswapInterface. In order to useSabswapon {chainInfo.label}, you must
+=======
+            Failed to switch networks from the Uniswap Interface. In order to use Uniswap on {chainInfo.label}, you must
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
             change the network in your wallet.
           </Trans>
         </ThemedText.DeprecatedBody>

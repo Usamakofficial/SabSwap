@@ -22,7 +22,11 @@
   ],
   "orientation": "portrait",
   "name": "Uniswap",
+<<<<<<< HEAD
   "description": "Swap or provide liquidity on theSabswapProtocol",
+=======
+  "description": "Swap or provide liquidity on the Uniswap Protocol",
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
   "iconPath": "./images/256x256_App_Icon_Pink.svg",
   "short_name": "Uniswap",
   "start_url": ".",

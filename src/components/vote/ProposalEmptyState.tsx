@@ -44,7 +44,11 @@ export default function ProposalEmptyState() {
         HeaderContent={() => <Trans>Please connect to Layer 1 Ethereum</Trans>}
         SubHeaderContent={() => (
           <Trans>
+<<<<<<< HEAD
             Sabswapgovernance is only available on Layer 1. Switch your network to Ethereum Mainnet to view Proposals
+=======
+            Uniswap governance is only available on Layer 1. Switch your network to Ethereum Mainnet to view Proposals
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
             and Vote.
           </Trans>
         )}

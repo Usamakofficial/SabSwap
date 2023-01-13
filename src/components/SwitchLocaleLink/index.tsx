@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 /* eslint-disable */
+=======
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 import { Trans } from '@lingui/macro'
 import { useLocationLinkProps } from 'hooks/useLocationLinkProps'
 import { useMemo } from 'react'
@@ -40,7 +43,11 @@ export function SwitchLocaleLink() {
   return (
     <Container>
       <Trans>
+<<<<<<< HEAD
         Sabswapavailable in:{' '}
+=======
+        Uniswap available in:{' '}
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
         <StyledInternalLink onClick={onClick} to={to}>
           {LOCALE_LABEL[targetLocale]}
         </StyledInternalLink>

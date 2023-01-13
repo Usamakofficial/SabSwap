@@ -685,7 +685,11 @@ export default function Swap() {
                             signatureState === UseERC20PermitState.SIGNED ? (
                               <Trans>You can now trade {currencies[Field.INPUT]?.symbol}</Trans>
                             ) : (
+<<<<<<< HEAD
                               <Trans>Allow theSabswapProtocol to use your {currencies[Field.INPUT]?.symbol}</Trans>
+=======
+                              <Trans>Allow the Uniswap Protocol to use your {currencies[Field.INPUT]?.symbol}</Trans>
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
                             )}
                           </span>
                           {approvalPending || approvalState === ApprovalState.PENDING ? (
@@ -697,7 +701,11 @@ export default function Swap() {
                             <MouseoverTooltip
                               text={
                                 <Trans>
+<<<<<<< HEAD
                                   You must give theSabswapsmart contracts permission to use your{' '}
+=======
+                                  You must give the Uniswap smart contracts permission to use your{' '}
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
                                   {currencies[Field.INPUT]?.symbol}. You only have to do this once per token.
                                 </Trans>
                               }

@@ -40,7 +40,11 @@ export default function ConnectedAccountBlocked(props: ConnectedAccountBlockedPr
           {props.account}
         </ThemedText.DeprecatedDarkGray>
         <ThemedText.DeprecatedMain fontSize={14} marginBottom={12}>
+<<<<<<< HEAD
           <Trans>This address is blocked on theSabswapLabs interface because it is associated with one or more</Trans>{' '}
+=======
+          <Trans>This address is blocked on the Uniswap Labs interface because it is associated with one or more</Trans>{' '}
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
           <ExternalLink href="https://help.uniswap.org/en/articles/6149816">
             <Trans>blocked activities</Trans>
           </ExternalLink>

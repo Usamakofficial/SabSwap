@@ -173,7 +173,11 @@ const TxCompleteModal = () => {
                       <LightningBoltIcon color="pink" />
                       <p className={styles.subtitle}>Instant Refund</p>
                       <p className={styles.interStd}>
+<<<<<<< HEAD
                         Sabswapreturned{' '}
+=======
+                        Uniswap returned{' '}
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
                         <span style={{ fontWeight: '700' }}>{formatEthPrice(totalRefundValue.toString())} ETH</span>{' '}
                         back to your wallet for unavailable items.
                       </p>
@@ -248,7 +252,11 @@ const TxCompleteModal = () => {
                       {txState === TxStateType.Success &&
                         `Selected item${
                           nftsPurchased.length === 1 ? ' is' : 's are'
+<<<<<<< HEAD
                         } no longer available.Sabswapinstantly refunded you for this incomplete transaction. `}
+=======
+                        } no longer available. Uniswap instantly refunded you for this incomplete transaction. `}
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
                       {formatUsdPrice(txFeeFiat)} was used for gas in attempt to complete this transaction. For support,
                       please visit our <a href="https://discord.gg/FCfyBSbCU5">Discord</a>
                     </p>

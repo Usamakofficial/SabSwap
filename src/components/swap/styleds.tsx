@@ -25,7 +25,11 @@ export const PageWrapper = styled.div`
 // Mostly copied from `AppBody` but it was getting too hard to maintain backwards compatibility.
 export const SwapWrapper = styled.main<{ margin?: string; maxWidth?: string }>`
   position: relative;
+<<<<<<< HEAD
   background: linear-gradient(to left, #e4d7c5, #c7a210);
+=======
+  background: ${({ theme }) => theme.backgroundSurface};
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
   border-radius: 16px;
   border: 1px solid ${({ theme }) => theme.backgroundOutline};
   padding: 8px;

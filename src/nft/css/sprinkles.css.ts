@@ -165,7 +165,11 @@ export const vars = createGlobalTheme(':root', {
     none: 'none',
     white: '#FFF',
 
+<<<<<<< HEAD
     // newSabswapcolors:
+=======
+    // new uniswap colors:
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
     blue400: '#4C82FB',
     blue200: '#ADBCFF30',
     pink400: '#FB118E',

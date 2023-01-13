@@ -13,6 +13,10 @@ import { ReactNode, useMemo } from 'react'
 import { NavLink, NavLinkProps, useLocation } from 'react-router-dom'
 import { ExternalLink } from 'react-feather'
 import { ChainSelector } from './ChainSelector'
+<<<<<<< HEAD
+=======
+import { MenuDropdown } from './MenuDropdown'
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 import { SearchBar } from './SearchBar'
 import { ButtonSecondary } from 'components/Button'
 import { ShoppingBag } from './ShoppingBag'
@@ -127,6 +131,12 @@ const Navbar = () => {
               <Box display={{ sm: 'flex', xl: 'none' }}>
                 <SearchBar />
               </Box>
+<<<<<<< HEAD
+=======
+              <Box display={{ sm: 'none', lg: 'flex' }}>
+                <MenuDropdown />
+              </Box>
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
               {isNftPage && <ShoppingBag />}
               {!isNftPage && (
                 <Box display={{ sm: 'none', lg: 'flex' }}>
@@ -139,6 +149,15 @@ const Navbar = () => {
           </Box>
         </Box>
       </nav>
+<<<<<<< HEAD
+=======
+      {/* <Box className={styles.mobileBottomBar}>
+        <PageTabs />
+        <Box marginY="4">
+          <MenuDropdown />
+        </Box>
+      </Box> */}
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
     </>
   )
 }

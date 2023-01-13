@@ -74,7 +74,11 @@ export const Input = React.memo(function InnerInput({
             ? value.toString().slice(1, value.toString().length + 1)
             : value
 
+<<<<<<< HEAD
           // replace commas with periods, becauseSabswapexclusively uses period as the decimal separator
+=======
+          // replace commas with periods, because uniswap exclusively uses period as the decimal separator
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
           enforcer(formattedValue.replace(/,/g, '.'))
         } else {
           enforcer(event.target.value.replace(/,/g, '.'))

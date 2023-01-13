@@ -60,8 +60,13 @@ msgid "24H volume"
 msgstr "24H prostornina"
 
 #: src/components/Tokens/TokenDetails/StatsSection.tsx
+<<<<<<< HEAD
 msgid "24H volume is the amount of the asset that has been traded onSabswapv3 during the past 24 hours."
 msgstr "24H obseg je znesek sredstva, s katerim se je trgovalo naSabswapv3 v zadnjih 24 urah."
+=======
+msgid "24H volume is the amount of the asset that has been traded on Uniswap v3 during the past 24 hours."
+msgstr "24H obseg je znesek sredstva, s katerim se je trgovalo na Uniswap v3 v zadnjih 24 urah."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/RemoveLiquidity/V3.tsx
 msgid "25%"
@@ -157,8 +162,13 @@ msgid "Add"
 msgstr "Dodaj"
 
 #: src/components/AccountDetails/TransactionSummary.tsx
+<<<<<<< HEAD
 msgid "Add <0/> and <1/> toSabswapV2"
 msgstr "Dodaj <0/> in <1/> vSabswapV2"
+=======
+msgid "Add <0/> and <1/> to Uniswap V2"
+msgstr "Dodaj <0/> in <1/> v Uniswap V2"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/vote/DelegateModal.tsx
 msgid "Add Delegate +"
@@ -226,7 +236,11 @@ msgid "Allow high price impact trades and skip the confirm screen. Use at your o
 msgstr "Dovolite trgovanje z visokim vplivom na ceno in preskočite zaslon za potrditev. Uporabljajte na lastno odgovornost."
 
 #: src/pages/Swap/index.tsx
+<<<<<<< HEAD
 msgid "Allow theSabswapProtocol to use your {0}"
+=======
+msgid "Allow the Uniswap Protocol to use your {0}"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Dovoli protokolu Uniswap, da uporabi vaše {0}"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
@@ -247,8 +261,13 @@ msgid "An error occurred loading tokens. Please try again."
 msgstr "Pri nalaganju žetonov je prišlo do napake. Prosim poskusite ponovno."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
+<<<<<<< HEAD
 msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note: fee on transfer and rebase tokens are incompatible withSabswapV3."
 msgstr "Pri poskusu izvedbe te zamenjave je prišlo do napake. Morda boste morali povečati toleranco do zdrsa. Če to ne deluje, je morda težava v nezdružljivosti z žetonom, s katerim trgujete. Pozor: žetoni s provizijami ob prenosu in uravnavani (rebase) žetoni niso združljivi zSabswapV3."
+=======
+msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr "Pri poskusu izvedbe te zamenjave je prišlo do napake. Morda boste morali povečati toleranco do zdrsa. Če to ne deluje, je morda težava v nezdružljivosti z žetonom, s katerim trgujete. Pozor: žetoni s provizijami ob prenosu in uravnavani (rebase) žetoni niso združljivi z Uniswap V3."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/AccountDetailsV2/TransactionBody.tsx
 #: src/components/earn/StakingModal.tsx
@@ -295,8 +314,13 @@ msgid "Are you sure?"
 msgstr "Ste prepričani?"
 
 #: src/components/claim/ClaimModal.tsx
+<<<<<<< HEAD
 msgid "As a member of theSabswapcommunity you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
 msgstr "Kot član skupnostiSabswapste upravičeni do žetonov UNI, ki se uporabljajo za glasovanje in upravljanje. <0/> <1/> <2> Preberite več o UNI</2>"
+=======
+msgid "As a member of the Uniswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
+msgstr "Kot član skupnosti Uniswap ste upravičeni do žetonov UNI, ki se uporabljajo za glasovanje in upravljanje. <0/> <1/> <2> Preberite več o UNI</2>"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
@@ -352,11 +376,19 @@ msgid "By adding liquidity you'll earn 0.3% of all trades on this pair proportio
 msgstr "Ko dodate likvidnost, boste služili provizijo 0,3 % od vseh poslov na tem paru sorazmerno z vašim deležem v skladu. Provozije se dodajajo v sklad v realnem času. Prevzamete jih, ko umaknete svojo likvidnost iz sklada."
 
 #: src/components/WalletModal/index.tsx
+<<<<<<< HEAD
 msgid "By connecting a wallet, you agree toSabswapLabs’ <0>Terms of Service</0> and acknowledge that you have read and understand theSabswap<1>Protocol Disclaimer</1>."
 msgstr "S tem ko povežete denarnico, se strinjate s <0>pogoji storitveSabswapLabs</0> in potrjujete, da ste prebrali in razumeli <1>izjavo o omejitvi odgovornosti</1> protokola Uniswap."
 
 #: src/components/WalletModal/index.tsx
 msgid "By connecting a wallet, you agree toSabswapLabs’ <0>Terms of Service</0> and consent to its <1>Privacy Policy</1>."
+=======
+msgid "By connecting a wallet, you agree to Uniswap Labs’ <0>Terms of Service</0> and acknowledge that you have read and understand the Uniswap <1>Protocol Disclaimer</1>."
+msgstr "S tem ko povežete denarnico, se strinjate s <0>pogoji storitve Uniswap Labs</0> in potrjujete, da ste prebrali in razumeli <1>izjavo o omejitvi odgovornosti</1> protokola Uniswap."
+
+#: src/components/WalletModal/index.tsx
+msgid "By connecting a wallet, you agree to Uniswap Labs’ <0>Terms of Service</0> and consent to its <1>Privacy Policy</1>."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Če povežete denarnico, se strinjate s pogoji storitve</0> Labs <0>in se strinjate z njegovim <1>pravilnikom o zasebnosti</1>."
 
 #: src/pages/Vote/styled.tsx
@@ -695,7 +727,11 @@ msgid "Deposit tokens to the {label} network."
 msgstr "Položite žetone v omrežje {label}"
 
 #: src/pages/Earn/index.tsx
+<<<<<<< HEAD
 msgid "Deposit your Liquidity Provider tokens to receive UNI, theSabswapprotocol governance token."
+=======
+msgid "Deposit your Liquidity Provider tokens to receive UNI, the Uniswap protocol governance token."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Položite likvidnostne (LP) žetone, s čimer prejmete UNI, žeton za upravljanje protokola Uniswap."
 
 #: src/components/earn/UnstakingModal.tsx
@@ -748,7 +784,11 @@ msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "Ne vidite katerega od svojih pologov V2? <0>Uvozite ga.</0>"
 
 #: src/components/vote/DelegateModal.tsx
+<<<<<<< HEAD
 msgid "Earned UNI tokens represent voting shares inSabswapgovernance."
+=======
+msgid "Earned UNI tokens represent voting shares in Uniswap governance."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Žetoni UNI predstavljajo delež glasovalnih pravic pri upravljanju sistema Uniswap."
 
 #: src/components/FeeSelector/index.tsx
@@ -866,12 +906,21 @@ msgid "Explore Top Tokens on Uniswap"
 msgstr "Raziščite najboljše žetone na Uniswap"
 
 #: src/pages/Pool/CTACards.tsx
+<<<<<<< HEAD
 msgid "ExploreSabswapAnalytics."
 msgstr "RaziščiteSabswapAnalytics."
 
 #: src/components/Popups/FailedNetworkSwitchPopup.tsx
 msgid "Failed to switch networks from theSabswapInterface. In order to useSabswapon {0}, you must change the network in your wallet."
 msgstr "Zamenjava omrežij iz Uniswapovega vmesnika ni uspela. Če želite uporabitiSabswapna {0}, morate zamenjati omrežje v svoji denarnici."
+=======
+msgid "Explore Uniswap Analytics."
+msgstr "Raziščite Uniswap Analytics."
+
+#: src/components/Popups/FailedNetworkSwitchPopup.tsx
+msgid "Failed to switch networks from the Uniswap Interface. In order to use Uniswap on {0}, you must change the network in your wallet."
+msgstr "Zamenjava omrežij iz Uniswapovega vmesnika ni uspela. Če želite uporabiti Uniswap na {0}, morate zamenjati omrežje v svoji denarnici."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/NavBar/MenuDropdown.tsx
 msgid "Feature Flags"
@@ -898,8 +947,13 @@ msgid "For"
 msgstr "Za"
 
 #: src/pages/MigrateV2/index.tsx
+<<<<<<< HEAD
 msgid "For each pool shown below, click migrate to remove your liquidity fromSabswapV2 and deposit it intoSabswapV3."
 msgstr "Za vsak spodaj prikazani sklad s klikom na Migriraj odstranite svojo likvidnost izSabswapV2 in jo vložite vSabswapV3."
+=======
+msgid "For each pool shown below, click migrate to remove your liquidity from Uniswap V2 and deposit it into Uniswap V3."
+msgstr "Za vsak spodaj prikazani sklad s klikom na Migriraj odstranite svojo likvidnost iz Uniswap V2 in jo vložite v Uniswap V3."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/Swap/index.tsx
 msgid "From"
@@ -1160,8 +1214,13 @@ msgid "Migrate V2 Liquidity"
 msgstr "Migriraj likvidnost iz V2"
 
 #: src/pages/MigrateV2/index.tsx
+<<<<<<< HEAD
 msgid "Migrate your liquidity tokens fromSabswapV2 toSabswapV3."
 msgstr "Migrirajte svojo likvidnostne žetone iz Uniswapa V2 vSabswapV3."
+=======
+msgid "Migrate your liquidity tokens from Uniswap V2 to Uniswap V3."
+msgstr "Migrirajte svojo likvidnostne žetone iz Uniswapa V2 v Uniswap V3."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/AccountDetails/TransactionSummary.tsx
 msgid "Migrate {0}/{1} liquidity to V3"
@@ -1488,7 +1547,11 @@ msgid "Read more about UNI"
 msgstr "Preberite več o UNI"
 
 #: src/pages/Vote/Landing.tsx
+<<<<<<< HEAD
 msgid "Read more aboutSabswapgovernance"
+=======
+msgid "Read more about Uniswap governance"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Preberite več o Uniswapovem upravljanju"
 
 #: src/pages/Pool/v2.tsx
@@ -1761,7 +1824,11 @@ msgid "TVL"
 msgstr "TVL"
 
 #: src/components/Popups/SurveyPopup.tsx
+<<<<<<< HEAD
 msgid "Take a 10 minute survey to help us improve your experience in theSabswapapp."
+=======
+msgid "Take a 10 minute survey to help us improve your experience in the Uniswap app."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Izpolnite 10-minutno anketo in nam pomagajte izboljšati vašo izkušnjo aplikacije Uniswap."
 
 #: src/components/Popups/SurveyPopup.tsx
@@ -1769,15 +1836,24 @@ msgid "Tell us what you think ↗"
 msgstr "Povejte nam, kaj si mislite ↗"
 
 #: src/components/Popups/ClaimPopup.tsx
+<<<<<<< HEAD
 msgid "Thanks for being part of theSabswapcommunity <0/>"
 msgstr "Hvala, ker ste del skupnostiSabswap<0/>"
+=======
+msgid "Thanks for being part of the Uniswap community <0/>"
+msgstr "Hvala, ker ste del skupnosti Uniswap <0/>"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/FeeSelector/index.tsx
 msgid "The % you will earn in fees."
 msgstr "Odstotek, ki ga boste služili s provizijami."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
+<<<<<<< HEAD
 msgid "TheSabswapinvariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
+=======
+msgid "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Pri tej menjavi ni bilo zadoščeno Uniswapovi stalnici x*y = k. To običajno pomeni, da ima eden od žetonov, ki jih menjate, pri prenosih vgrajeno posebno obnašanje."
 
 #: src/components/swap/AdvancedSwapDetails.tsx
@@ -1793,8 +1869,13 @@ msgid "The app fetches on-chain data and constructs contract calls with an Infur
 msgstr "Aplikacija pridobi podatke in verige in zgradi pogodbene klice z API-jem Infura."
 
 #: src/components/PrivacyPolicy/index.tsx
+<<<<<<< HEAD
 msgid "The app fetches the optimal trade route from aSabswapLabs server."
 msgstr "Aplikacija pridobi optimalno pot trgovanja s strežnikaSabswapLabs."
+=======
+msgid "The app fetches the optimal trade route from a Uniswap Labs server."
+msgstr "Aplikacija pridobi optimalno pot trgovanja s strežnika Uniswap Labs."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/PrivacyPolicy/index.tsx
 msgid "The app logs anonymized usage statistics in order to improve over time."
@@ -1850,7 +1931,11 @@ msgid "The output token cannot be transferred. There may be an issue with the ou
 msgstr "Izhodnega žetona ni mogoče prenesti. Morda gre za težavo z izhodnim žetonom."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
+<<<<<<< HEAD
 msgid "The output token cannot be transferred. There may be an issue with the output token. Note: fee on transfer and rebase tokens are incompatible withSabswapV3."
+=======
+msgid "The output token cannot be transferred. There may be an issue with the output token. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Izhodnega žetona ni mogoče prenesti. Morda gre za težavo z izhodnim žetonom. Pozor: žetoni s provizijami ob prenosu in uravnavani (rebase) žetoni niso združljivi z Uniswapom V3."
 
 #: src/components/Badge/RangeBadge.tsx
@@ -1874,8 +1959,13 @@ msgid "There is no liquidity data."
 msgstr "Podatkov o likvidnosti ni."
 
 #: src/components/ConnectedAccountBlocked/index.tsx
+<<<<<<< HEAD
 msgid "This address is blocked on theSabswapLabs interface because it is associated with one or more"
 msgstr "Ta naslov je blokiran v vmesnikuSabswapLabs, ker je povezan z"
+=======
+msgid "This address is blocked on the Uniswap Labs interface because it is associated with one or more"
+msgstr "Ta naslov je blokiran v vmesniku Uniswap Labs, ker je povezan z"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/PrivacyPolicy/index.tsx
 msgid "This app uses the following third-party APIs:"
@@ -1898,6 +1988,7 @@ msgid "This token doesn't appear on the active token list(s). Make sure this is 
 msgstr "Tega žetona ni na nobenem od omogočenih seznamov žetonov. Prepričajte se, da je to res žeton, s katerim želite trgovati."
 
 #: src/components/Tokens/TokenDetails/PriceChart.tsx
+<<<<<<< HEAD
 msgid "This token doesn't have chart data because it hasn't been traded onSabswapv3"
 msgstr "Ta žeton nima podatkov grafikona, ker se z njim ni trgovalo naSabswapv3"
 
@@ -1912,6 +2003,22 @@ msgstr "To orodje poskrbi za varno migracijo vaših likvidnostnih žetonov {0} v
 #: src/utils/swapErrorToUserReadableMessage.tsx
 msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible withSabswapV3."
 msgstr "Ta transakcija ne bo uspela zaradi premika cene. Poskusite povečati toleranco do zdrsa. Pozor: žetoni s provizijami ob prenosu in uravnavani (rebase) žetoni niso združljivi zSabswapV3."
+=======
+msgid "This token doesn't have chart data because it hasn't been traded on Uniswap v3"
+msgstr "Ta žeton nima podatkov grafikona, ker se z njim ni trgovalo na Uniswap v3"
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "This token is not supported in the Uniswap Labs app"
+msgstr "Ta žeton ni podprt v aplikaciji Uniswap Labs"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "This tool will safely migrate your {0} liquidity to V3. The process is completely trustless thanks to the"
+msgstr "To orodje poskrbi za varno migracijo vaših likvidnostnih žetonov {0} v Uniswap V3. Ta postopek ne zahteva nikakršnega zaupanja drugi osebi zaradi "
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr "Ta transakcija ne bo uspela zaradi premika cene. Poskusite povečati toleranco do zdrsa. Pozor: žetoni s provizijami ob prenosu in uravnavani (rebase) žetoni niso združljivi z Uniswap V3."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
 msgid "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
@@ -1961,8 +2068,13 @@ msgid "Total deposits"
 msgstr "Vsi pologi"
 
 #: src/components/Tokens/TokenTable/TokenRow.tsx
+<<<<<<< HEAD
 msgid "Total value locked (TVL) is the amount of the asset that’s currently in aSabswapv3 liquidity pool."
 msgstr "Skupna zaklenjena vrednost (TVL) je znesek sredstva, ki je trenutno v skladu likvidnostiSabswapv3."
+=======
+msgid "Total value locked (TVL) is the amount of the asset that’s currently in a Uniswap v3 liquidity pool."
+msgstr "Skupna zaklenjena vrednost (TVL) je znesek sredstva, ki je trenutno v skladu likvidnosti Uniswap v3."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/swap/RouterLabel.tsx
 msgid "Trade Route"
@@ -2021,7 +2133,11 @@ msgid "UNI has arrived"
 msgstr "UNI je dospel"
 
 #: src/pages/Vote/Landing.tsx
+<<<<<<< HEAD
 msgid "UNI tokens represent voting shares inSabswapgovernance. You can vote on each proposal yourself or delegate your votes to a third party."
+=======
+msgid "UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Žetoni UNI predstavljajo delež glasovalnih pravic pri upravljanju sistema Uniswap. Za vsak predlog lahko glasujete sami ali pa svoje glasove prenesete na izbranega zastopnika."
 
 #: src/pages/RemoveLiquidity/index.tsx
@@ -2063,7 +2179,11 @@ msgstr "Uniswapovo upravljanje"
 
 #: src/components/PrivacyPolicy/index.tsx
 msgid "Uniswap Labs' Terms of Service"
+<<<<<<< HEAD
 msgstr "Pogoji storitveSabswapLabs"
+=======
+msgstr "Pogoji storitve Uniswap Labs"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/SwitchLocaleLink/index.tsx
 msgid "Uniswap available in: <0>{0}</0>"
@@ -2086,8 +2206,13 @@ msgid "Unknown Source"
 msgstr "Neznan vir"
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
+<<<<<<< HEAD
 msgid "Unknown error{0}. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible withSabswapV3."
 msgstr "Neznana napaka {0}. Poskusite povečati toleranco do zdrsa. Pozor: žetoni s provizijami ob prenosu in uravnavani (rebase) žetoni niso združljivi zSabswapV3."
+=======
+msgid "Unknown error{0}. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr "Neznana napaka {0}. Poskusite povečati toleranco do zdrsa. Pozor: žetoni s provizijami ob prenosu in uravnavani (rebase) žetoni niso združljivi z Uniswap V3."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/Vote/Landing.tsx
 #: src/pages/Vote/VotePage.tsx
@@ -2138,8 +2263,13 @@ msgid "Update Delegation"
 msgstr "Posodobi pooblastilo"
 
 #: src/components/Settings/index.tsx
+<<<<<<< HEAD
 msgid "Use theSabswapLabs API to get faster quotes."
 msgstr "Z uporabo API-jaSabswapLabs lahko ponudbe pridobite hitreje."
+=======
+msgid "Use the Uniswap Labs API to get faster quotes."
+msgstr "Z uporabo API-ja Uniswap Labs lahko ponudbe pridobite hitreje."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/components/claim/ClaimModal.tsx
 msgid "User"
@@ -2190,8 +2320,13 @@ msgid "View transaction on Explorer"
 msgstr "Prikaži transakcijo v raziskovalcu"
 
 #: src/components/Tokens/TokenTable/TokenRow.tsx
+<<<<<<< HEAD
 msgid "Volume is the amount of the asset that has been traded onSabswapv3 during the selected time frame."
 msgstr "Obseg je znesek sredstva, s katerim se je trgovalo naSabswapv3 v izbranem časovnem okviru."
+=======
+msgid "Volume is the amount of the asset that has been traded on Uniswap v3 during the selected time frame."
+msgstr "Obseg je znesek sredstva, s katerim se je trgovalo na Uniswap v3 v izbranem časovnem okviru."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/Vote/VotePage.tsx
 msgid "Vote Against"
@@ -2339,7 +2474,11 @@ msgid "You are creating a pool"
 msgstr "Ustvarjate sklad"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
+<<<<<<< HEAD
 msgid "You are the first liquidity provider for thisSabswapV3 pool. Your liquidity will migrate at the current {0} price."
+=======
+msgid "You are the first liquidity provider for this Uniswap V3 pool. Your liquidity will migrate at the current {0} price."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "V tem skladu Uniswapa V3 ste prvi ponudnik likvidnosti. Vaša likvidnost bo migrirana po trenutni ceni {0}."
 
 #: src/pages/AddLiquidityV2/index.tsx
@@ -2375,7 +2514,11 @@ msgid "You must connect an account."
 msgstr "Povezati morate račun."
 
 #: src/pages/Swap/index.tsx
+<<<<<<< HEAD
 msgid "You must give theSabswapsmart contracts permission to use your {0}. You only have to do this once per token."
+=======
+msgid "You must give the Uniswap smart contracts permission to use your {0}. You only have to do this once per token."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "Najprej morate Uniswapovim pametnim pogodbam dovoliti uporabo svojih {0}. To je za vsak žeton potrebno storiti samo enkrat."
 
 #: src/pages/CreateProposal/index.tsx
@@ -2383,8 +2526,13 @@ msgid "You must have {formattedProposalThreshold} votes to submit a proposal"
 msgstr "Za predložitev pobude potrebujete {formattedProposalThreshold} glasov."
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
+<<<<<<< HEAD
 msgid "You should only deposit liquidity intoSabswapV3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
 msgstr "VSabswapV3 položite likvidnost le po ceni, za katero menite, da je pravilna. <0/>Če se zdi cena napačna, lahko izvedete menjavo, s čimer premaknete ceno, ali pa počakajte, da to stori nekdo drug."
+=======
+msgid "You should only deposit liquidity into Uniswap V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
+msgstr "V Uniswap V3 položite likvidnost le po ceni, za katero menite, da je pravilna. <0/>Če se zdi cena napačna, lahko izvedete menjavo, s čimer premaknete ceno, ali pa počakajte, da to stori nekdo drug."
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 
 #: src/pages/RemoveLiquidity/V3.tsx
 msgid "You will also collect fees earned from this position."
@@ -2574,7 +2722,11 @@ msgid "{0, plural, =1 {This token isn't traded on leading U.S. centralized excha
 msgstr "{0, plural, =1 {S tem žetonom se ne trguje na vodilnih centraliziranih borzah v ZDA.} other {S temi žetoni se ne trguje na vodilnih centraliziranih borzah v ZDA.}}"
 
 #: src/constants/tokenSafety.tsx
+<<<<<<< HEAD
 msgid "{0, plural, =1 {You can't trade this token using theSabswapApp.} other {You can't trade these tokens using theSabswapApp.}}"
+=======
+msgid "{0, plural, =1 {You can't trade this token using the Uniswap App.} other {You can't trade these tokens using the Uniswap App.}}"
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 msgstr "{0, plural, =1 {S tem žetonom ne morete trgovati v aplikaciji Uniswap.} 2 {S tema žetonoma ne morete trgovati v aplikaciji Uniswap.} other {S temi žetoni ne morete trgovati v aplikaciji Uniswap.}}"
 
 #: src/components/RateToggle/index.tsx

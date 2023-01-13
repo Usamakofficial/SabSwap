@@ -4,8 +4,13 @@ import { Z_INDEX } from 'theme/zIndex'
 
 import { useModalIsOpen } from '../../state/application/hooks'
 import { ApplicationModal } from '../../state/application/reducer'
+<<<<<<< HEAD
 // import DefaultMenu from './DefaultMenu'
 // import LanguageMenu from './LanguageMenu'
+=======
+import DefaultMenu from './DefaultMenu'
+import LanguageMenu from './LanguageMenu'
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 import { TransactionHistoryMenu } from './TransactionMenu'
 
 const WalletWrapper = styled.div`
@@ -58,10 +63,16 @@ const WalletDropdown = () => {
       {walletDropdownOpen && (
         <WalletDropdownWrapper>
           <WalletWrapper>
+<<<<<<< HEAD
             <TransactionHistoryMenu onClose={() => setMenu(MenuState.DEFAULT)} />
             {menu === MenuState.TRANSACTIONS && <TransactionHistoryMenu onClose={() => setMenu(MenuState.DEFAULT)} />}
             {/* {menu === MenuState.LANGUAGE && <LanguageMenu onClose={() => setMenu(MenuState.DEFAULT)} />} */}
             {/* {menu === MenuState.DEFAULT && <DefaultMenu setMenu={setMenu} />} */}
+=======
+            {menu === MenuState.TRANSACTIONS && <TransactionHistoryMenu onClose={() => setMenu(MenuState.DEFAULT)} />}
+            {menu === MenuState.LANGUAGE && <LanguageMenu onClose={() => setMenu(MenuState.DEFAULT)} />}
+            {menu === MenuState.DEFAULT && <DefaultMenu setMenu={setMenu} />}
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
           </WalletWrapper>
         </WalletDropdownWrapper>
       )}

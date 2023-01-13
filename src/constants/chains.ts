@@ -1,5 +1,9 @@
 /**
+<<<<<<< HEAD
  * List of all the networks supported by theSabswapInterface
+=======
+ * List of all the networks supported by the Uniswap Interface
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
  */
 export enum SupportedChainId {
   MAINNET = 1,

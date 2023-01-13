@@ -1,6 +1,10 @@
 ---
 name: Feature Request
+<<<<<<< HEAD
 about: Suggest an idea for improving the UX of theSabswapInterface
+=======
+about: Suggest an idea for improving the UX of the Uniswap Interface
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 title: ''
 labels: 'improvement'
 assignees: ''

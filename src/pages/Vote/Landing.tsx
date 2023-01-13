@@ -166,7 +166,11 @@ export default function Landing() {
                   <RowBetween>
                     <ThemedText.DeprecatedWhite fontSize={14}>
                       <Trans>
+<<<<<<< HEAD
                         UNI tokens represent voting shares inSabswapgovernance. You can vote on each proposal yourself
+=======
+                        UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
                         or delegate your votes to a third party.
                       </Trans>
                     </ThemedText.DeprecatedWhite>
@@ -180,7 +184,11 @@ export default function Landing() {
                     target="_blank"
                   >
                     <ThemedText.DeprecatedWhite fontSize={14}>
+<<<<<<< HEAD
                       <Trans>Read more aboutSabswapgovernance</Trans>
+=======
+                      <Trans>Read more about Uniswap governance</Trans>
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
                     </ThemedText.DeprecatedWhite>
                   </ExternalLink>
                 </AutoColumn>

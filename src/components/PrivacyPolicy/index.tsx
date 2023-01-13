@@ -49,7 +49,11 @@ const StyledLinkOut = styled(ArrowDown)`
 const EXTERNAL_APIS = [
   {
     name: 'Auto Router',
+<<<<<<< HEAD
     description: <Trans>The app fetches the optimal trade route from aSabswapLabs server.</Trans>,
+=======
+    description: <Trans>The app fetches the optimal trade route from a Uniswap Labs server.</Trans>,
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
   },
   {
     name: 'Infura',

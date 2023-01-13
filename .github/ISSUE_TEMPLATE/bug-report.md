@@ -1,6 +1,10 @@
 ---
 name: Bug Report
+<<<<<<< HEAD
 about: Describe an issue in theSabswapInterface
+=======
+about: Describe an issue in the Uniswap Interface
+>>>>>>> 20242fc76106c3e7b5140df5cdf784f98e8d3017
 title: ''
 labels: bug
 assignees: ''
